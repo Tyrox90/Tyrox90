@@ -8,9 +8,12 @@
 
 <!---
 Tyrox90/Tyrox90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->COLOR 1
-dir/s
-112
+You can click the Preview link to take a look at your change. 
+
+apt update && apt upgrade
+
+apt install cmatrix
+
+cmatrix
 
 
